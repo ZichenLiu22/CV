@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Systems Science and Statistics"
+title: "Systems Science"
 author_profile: true
 redirect_from: 
   - /about/
